@@ -66,13 +66,7 @@ function onClientConnected(sock) {
         console.log(getTime());
         //broadcast(socket.name + ">" + decryptedText, socket);
     });
-    // Send a message to all clients
-    //function broadcast(message, sender){
-    //clients.forEach(function (client) {
-    // Don't want to send it to sender
-    //if (client === sender) return;
-    //client.write(message);
-    //});
+   
 
     sock.on('close', function () {
         console.log('connection from %s closed', remoteAddress);
