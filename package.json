@@ -1,0 +1,25 @@
+{
+  "name": "nodejs--server_client_tcp-",
+  "version": "1.0.0",
+  "description": "TCP server and client communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drsharice/NodeJS--Server_Client_TCP-.git"
+  },
+  "keywords": [
+    "TCP",
+    "Server",
+    "client",
+    "encryption"
+  ],
+  "author": "Dr. Sharice Cannady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drsharice/NodeJS--Server_Client_TCP-/issues"
+  },
+  "homepage": "https://github.com/drsharice/NodeJS--Server_Client_TCP-#readme"
+}

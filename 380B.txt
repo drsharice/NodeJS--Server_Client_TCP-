@@ -1,0 +1,4 @@
+I will like to send you the temperature, just incase my environment is not suitable for the sensors. 
+Please note, if the temperature gets above 95 degrees and or humidity above 75%, 
+that something needs to be done at that location. Thank you for your time and understanding. 
+The current temperature is Degrees: 83.3854F Humidity: 
