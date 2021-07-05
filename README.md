@@ -35,7 +35,7 @@ As you can see in the picture below, you notice the port number and the encrypte
 Notice that the size of the file nearly doubles when you encrypt the message.
 -  ![Screenshot](images/clien_wire.png)
 
-####Server sending response to the client with plaintext via wireshark
+#### Server sending response to the client with plaintext via wireshark
 Notice the file size is back to 380 and you can see the plaintext message in the trace.
 -  ![Screenshot](images/server_wire.png)
 
